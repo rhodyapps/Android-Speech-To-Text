@@ -1,4 +1,4 @@
-package com.stacktips.speechtotext;
+package com.rhodyapps.speechtotext;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

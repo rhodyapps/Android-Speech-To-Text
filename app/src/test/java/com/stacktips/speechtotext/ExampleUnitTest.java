@@ -1,4 +1,4 @@
-package com.stacktips.speechtotext;
+package com.rhodyapps.speechtotext;
 
 import org.junit.Test;
 

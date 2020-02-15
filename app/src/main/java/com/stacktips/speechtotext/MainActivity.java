@@ -1,4 +1,4 @@
-package com.stacktips.speechtotext;
+package com.rhodyapps.speechtotext;
 
 import android.content.ActivityNotFoundException;
 import android.content.Intent;

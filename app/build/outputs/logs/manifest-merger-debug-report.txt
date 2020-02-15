@@ -1,0 +1,110 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/45e09eb23339a1ec5cee281482022afc/appcompat-v7-25.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/9187de4d0a3ac6b54435ddfa50e6a593/animated-vector-drawable-25.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/c260a47e4ee18cc4faeb1ce4d2401c22/support-vector-drawable-25.1.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/1180693166cef80f5cf0eb9dbb490e19/support-v4-25.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/a3cd0aebedca3a28d0f358ed86f1a49c/support-fragment-25.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/89702d2e65cbe137350629200b8f1dc9/support-media-compat-25.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/f43f2e6e2761bc670c0947883345110e/support-core-utils-25.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/b53e61c2dc294ae34e130a83231dbb8a/support-core-ui-25.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/bfdc09e0af2a7f366cf36b4039c196ad/support-compat-25.1.0/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml:5:5-18:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/45e09eb23339a1ec5cee281482022afc/appcompat-v7-25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/45e09eb23339a1ec5cee281482022afc/appcompat-v7-25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/9187de4d0a3ac6b54435ddfa50e6a593/animated-vector-drawable-25.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/9187de4d0a3ac6b54435ddfa50e6a593/animated-vector-drawable-25.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/c260a47e4ee18cc4faeb1ce4d2401c22/support-vector-drawable-25.1.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/c260a47e4ee18cc4faeb1ce4d2401c22/support-vector-drawable-25.1.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/1180693166cef80f5cf0eb9dbb490e19/support-v4-25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/1180693166cef80f5cf0eb9dbb490e19/support-v4-25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/a3cd0aebedca3a28d0f358ed86f1a49c/support-fragment-25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/a3cd0aebedca3a28d0f358ed86f1a49c/support-fragment-25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/89702d2e65cbe137350629200b8f1dc9/support-media-compat-25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/89702d2e65cbe137350629200b8f1dc9/support-media-compat-25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/f43f2e6e2761bc670c0947883345110e/support-core-utils-25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/f43f2e6e2761bc670c0947883345110e/support-core-utils-25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/b53e61c2dc294ae34e130a83231dbb8a/support-core-ui-25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/b53e61c2dc294ae34e130a83231dbb8a/support-core-ui-25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/bfdc09e0af2a7f366cf36b4039c196ad/support-compat-25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/bfdc09e0af2a7f366cf36b4039c196ad/support-compat-25.1.0/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.rhodyapps.speechtotext.MainActivity
+ADDED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml:11:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/45e09eb23339a1ec5cee281482022afc/appcompat-v7-25.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/45e09eb23339a1ec5cee281482022afc/appcompat-v7-25.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/9187de4d0a3ac6b54435ddfa50e6a593/animated-vector-drawable-25.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/9187de4d0a3ac6b54435ddfa50e6a593/animated-vector-drawable-25.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/c260a47e4ee18cc4faeb1ce4d2401c22/support-vector-drawable-25.1.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/c260a47e4ee18cc4faeb1ce4d2401c22/support-vector-drawable-25.1.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/1180693166cef80f5cf0eb9dbb490e19/support-v4-25.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/1180693166cef80f5cf0eb9dbb490e19/support-v4-25.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/a3cd0aebedca3a28d0f358ed86f1a49c/support-fragment-25.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/a3cd0aebedca3a28d0f358ed86f1a49c/support-fragment-25.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/89702d2e65cbe137350629200b8f1dc9/support-media-compat-25.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/89702d2e65cbe137350629200b8f1dc9/support-media-compat-25.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/f43f2e6e2761bc670c0947883345110e/support-core-utils-25.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/f43f2e6e2761bc670c0947883345110e/support-core-utils-25.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/b53e61c2dc294ae34e130a83231dbb8a/support-core-ui-25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/b53e61c2dc294ae34e130a83231dbb8a/support-core-ui-25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/bfdc09e0af2a7f366cf36b4039c196ad/support-compat-25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/bfdc09e0af2a7f366cf36b4039c196ad/support-compat-25.1.0/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] /Users/tnewman/.gradle/caches/transforms-2/files-2.1/45e09eb23339a1ec5cee281482022afc/appcompat-v7-25.1.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tnewman/Documents/GitHub/firebase/Android-Speech-To-Text/app/src/main/AndroidManifest.xml
